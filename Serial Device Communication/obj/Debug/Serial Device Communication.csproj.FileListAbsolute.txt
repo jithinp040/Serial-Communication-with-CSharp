@@ -1,0 +1,2 @@
+D:\Internship\Vs project\Visual Studio 2008\Projects\WindowsFormsApplication3\Serial Device Communication\obj\Debug\WindowsFormsApplication3.exe
+D:\Internship\Vs project\Visual Studio 2008\Projects\WindowsFormsApplication3\Serial Device Communication\obj\Debug\WindowsFormsApplication3.pdb
